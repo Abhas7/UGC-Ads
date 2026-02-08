@@ -2,7 +2,7 @@
 
 const Plans = () => {
   return (
-    <div>Plans</div>
+    <div>Plans where you have to go</div>
   )
 }
 
