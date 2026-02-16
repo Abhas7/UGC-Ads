@@ -2,7 +2,9 @@
 
 const MyGenerations = () => {
   return (
-    <div>MyGenerations</div>
+    <div>MyGenerations
+      <div></div>
+    </div>
   )
 }
 
