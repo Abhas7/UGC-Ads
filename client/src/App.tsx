@@ -27,6 +27,7 @@ function App() {
 				<Route path='/community' element={<Community />} />
 				<Route path='/plans' element={<Plans />} />
 				<Route path='/loading' element={<Loading />} />
+				
 			</Routes>
 
 			
